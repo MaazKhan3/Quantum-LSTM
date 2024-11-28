@@ -1,6 +1,6 @@
 # Quantum-Enhanced Part-of-Speech Tagger 🌟
 
-Note for Quantum Computing Teacher: Please use the notebook named POS_taagging_final for the project evaluation. Also, we have intentionally used 25 epochs for Quantum Circuits because we wanted to compare the performance difference of those quantum circuits (It took too long to run.) 
+Note for Quantum Computing Teacher: Please use the notebook named Quantum_POS_Tagger for the project evaluation. Also, we have intentionally used 25 epochs for Quantum Circuits because we wanted to compare the performance difference of those quantum circuits (It took too long to run.) 
 
 This repository presents a **Quantum-Enhanced Part-of-Speech (POS) Tagger**, a novel project integrating quantum computing with natural language processing (NLP). By leveraging **PennyLane** and **PyTorch**, we explore how quantum circuits can enhance the accuracy and efficiency of POS tagging.
 
